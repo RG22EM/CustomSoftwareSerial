@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-cusserial	KEYWORD1	cusserial
+cusserial KEYWORD1  cusserial
 
 #######################################
 # Methods and Functions (KEYWORD2)
